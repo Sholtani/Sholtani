@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sholtani
+- 👀 I’m interested in BOT
+- 🌱 I’m currently learning JSON
+- 💞️ I’m looking to collaborate on learning
+- 📫 How to reach me ? s.mohamed6060@gmail.com
